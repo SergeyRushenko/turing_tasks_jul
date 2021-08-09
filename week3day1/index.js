@@ -1,8 +1,8 @@
 let error = 'error 403!!!'
-// alert(error)
+alert(error)
 //
 let score = prompt ('Оцените правильность выполнения задания от 1 до 10', )
-// alert('Моя оценка ' + score + ' баллов')
+alert('Моя оценка ' + score + ' баллов')
 
 let test1 = true
 let test2 = false
